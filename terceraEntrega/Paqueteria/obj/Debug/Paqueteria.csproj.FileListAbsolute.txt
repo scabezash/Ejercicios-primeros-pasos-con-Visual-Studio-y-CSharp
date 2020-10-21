@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Paqueteria\bin\Debug\Paqueteria.exe.config
+C:\Users\Usuario\source\repos\Paqueteria\bin\Debug\Paqueteria.exe
+C:\Users\Usuario\source\repos\Paqueteria\bin\Debug\Paqueteria.pdb
+C:\Users\Usuario\source\repos\Paqueteria\obj\Debug\Paqueteria.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Paqueteria\obj\Debug\Paqueteria.Form1.resources
+C:\Users\Usuario\source\repos\Paqueteria\obj\Debug\Paqueteria.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Paqueteria\obj\Debug\Paqueteria.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Paqueteria\obj\Debug\Paqueteria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Paqueteria\obj\Debug\Paqueteria.exe
+C:\Users\Usuario\source\repos\Paqueteria\obj\Debug\Paqueteria.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\SucesionSumas\bin\Debug\SucesionSumas.exe.config
+C:\Users\Usuario\source\repos\SucesionSumas\bin\Debug\SucesionSumas.exe
+C:\Users\Usuario\source\repos\SucesionSumas\bin\Debug\SucesionSumas.pdb
+C:\Users\Usuario\source\repos\SucesionSumas\obj\Debug\SucesionSumas.Form1.resources
+C:\Users\Usuario\source\repos\SucesionSumas\obj\Debug\SucesionSumas.Properties.Resources.resources
+C:\Users\Usuario\source\repos\SucesionSumas\obj\Debug\SucesionSumas.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SucesionSumas\obj\Debug\SucesionSumas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SucesionSumas\obj\Debug\SucesionSumas.exe
+C:\Users\Usuario\source\repos\SucesionSumas\obj\Debug\SucesionSumas.pdb
+C:\Users\Usuario\source\repos\SucesionSumas\obj\Debug\SucesionSumas.csprojAssemblyReference.cache

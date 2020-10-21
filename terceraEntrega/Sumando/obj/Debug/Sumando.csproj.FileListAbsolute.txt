@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Sumando\bin\Debug\Sumando.exe.config
+C:\Users\Usuario\source\repos\Sumando\bin\Debug\Sumando.exe
+C:\Users\Usuario\source\repos\Sumando\bin\Debug\Sumando.pdb
+C:\Users\Usuario\source\repos\Sumando\obj\Debug\Sumando.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Sumando\obj\Debug\Sumando.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Sumando\obj\Debug\Sumando.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Sumando\obj\Debug\Sumando.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sumando\obj\Debug\Sumando.exe
+C:\Users\Usuario\source\repos\Sumando\obj\Debug\Sumando.pdb
+C:\Users\Usuario\source\repos\Sumando\obj\Debug\Sumando.Form1.resources
